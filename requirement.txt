@@ -1,0 +1,13 @@
+Flask
+python-dateutil
+waitress
+PyPDF2
+python-docx
+docx2python
+pdfplumber
+openpyxl
+spacy
+find-job-titles
+beautifulsoup4
+flair
+nltk
